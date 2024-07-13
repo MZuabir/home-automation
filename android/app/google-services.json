@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617841012357",
+    "firebase_url": "https://esp32-71148-default-rtdb.firebaseio.com",
+    "project_id": "esp32-71148",
+    "storage_bucket": "esp32-71148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617841012357:android:3086962e6bda6c7c8583ec",
+        "android_client_info": {
+          "package_name": "com.example.home_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8NK96v0gUCjCDHwIkF5a-5zhdURzVN-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
